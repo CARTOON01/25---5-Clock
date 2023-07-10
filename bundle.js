@@ -370,7 +370,7 @@
                 }))), React.createElement("div", {
                     className: "author"
                 }, " ", "Designed and Coded by ", React.createElement("br", null), React.createElement("a", {
-                    href: "https://goo.gl/6NNLMG",
+                    href: "https://www.freecodecamp.org/Briangugi",
                     target: "_blank"
                 }, "Brian Ngugi")), React.createElement("audio", {
                     id: "beep",
